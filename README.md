@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Mendoza</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-- 🔭 Actualmente estoy trabajando en [Célula de PostVenta](https://github.com/orgs/Blue-Express/teams/marketing-y-ventas)
+- 🔭 Actualmente estoy trabajando en [Célula de PostVenta](https://github.com/orgs/Blue-Express/teams/posaut)
 
 - 👯 Estoy buscando colaborar en **PostVenta**
 
