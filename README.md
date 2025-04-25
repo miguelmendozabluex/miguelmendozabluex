@@ -10,7 +10,7 @@
 ## 👨‍💻 Sobre mí
 
 - 🔭 Actualmente trabajo como **Full Stack Senior**
-- 📫 Contáctame: **miguel.mendoza,molina@gmail.com**
+- 📫 Contáctame: **miguel.mendoza.molina@gmail.com**
 - ⚡ Fun fact: Me encanta optimizar sistemas, ¡y mejorar procesos es parte de mi ADN! 🔥
 
 ---
