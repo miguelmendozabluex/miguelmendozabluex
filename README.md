@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hola, soy Miguel Mendoza</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Problem Solver 🚀</h3>
+<h3 align="center">Software Engineer | Full Stack Developer Senior </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&lines=Apasionado+por+el+codigo+y+la+tecnolog%C3%ADa;Enfocado+en+Postventa+y+Autoatenci%C3%B3n;Amante+de+las+buenas+pr%C3%A1cticas+de+desarrollo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&lines=Apasionado por el codigo" alt="Typing SVG" />
 </p>
 
 ---
