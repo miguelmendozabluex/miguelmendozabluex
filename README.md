@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Miguel Mendoza</h1>
-<h3 align="center">Desarrollador Full Stack Senior</h3>
+<h3 align="center">Líder Técnico (Tech Lead)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&lines=Arquitectura+de+Software;Microservicios;Cloud+Native;Always+Learning" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo como **Full Stack Senior**
+- 🔭 Actualmente trabajo como **Líder Técnico**
 - 📫 Contáctame: **miguel.mendoza.molina@gmail.com**
 - ⚡ Fun fact: Me encanta optimizar sistemas, ¡y mejorar procesos es parte de mi ADN! 🔥
 
