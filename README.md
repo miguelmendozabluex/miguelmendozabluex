@@ -1,5 +1,14 @@
 <h1 align="center">👋 Hola, soy Miguel Mendoza</h1>
 <h3 align="center">Líder Técnico (Tech Lead)</h3>
+<p align="center">
+  Diseño y construyo soluciones escalables con foco en arquitectura, cloud y entrega continua.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arquitectura-Microservicios-0A66C2?style=for-the-badge" alt="Arquitectura de microservicios" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-232F3E?style=for-the-badge" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20NestJS%20%7C%20React-3C873A?style=for-the-badge" alt="Stack principal" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&lines=Arquitectura+de+Software;Microservicios;Cloud+Native;Always+Learning" alt="Typing SVG" />
@@ -7,11 +16,24 @@
 
 ---
 
+## 🧭 Índice
+
+- [👨‍💻 Sobre mí](#-sobre-mí)
+- [🚀 Stack Tecnológico](#-stack-tecnológico)
+- [🎯 Áreas de Expertise](#-áreas-de-expertise)
+- [🏆 Logros Destacados](#-logros-destacados)
+- [📊 Estadísticas de GitHub](#-estadísticas-de-github)
+- [📚 Filosofía de Desarrollo](#-filosofía-de-desarrollo)
+- [🤝 ¿Cómo puedo aportar?](#-cómo-puedo-aportar)
+- [🔗 Conecta Conmigo](#-conecta-conmigo)
+
+---
+
 ## 👨‍💻 Sobre mí
 
 - 🔭 Actualmente trabajo como **Líder Técnico**
 - 📫 Contáctame: **miguel.mendoza.molina@gmail.com**
-- ⚡ Fun fact: Me encanta optimizar sistemas, ¡y mejorar procesos es parte de mi ADN! 🔥
+- ⚡ Dato curioso: Me encanta optimizar sistemas, ¡y mejorar procesos es parte de mi ADN! 🔥
 
 ---
 
@@ -27,7 +49,7 @@
   "frontend": ["Next.js", "React", "Angular Material", "TypeScript"],
   "backend": ["Node.js", "NestJS", "Microservicios", "DDD", "Arquitectura Hexagonal"],
   "cloud": ["AWS (SNS/SQS)", "GCP (Secret Manager)", "Azure (Servicios Cognitivos)"],
-  "devops": ["CI/CD", "Github Actions", "Docker", "Kubernetes", "Helm"],
+  "devops": ["CI/CD", "GitHub Actions", "Docker", "Kubernetes", "Helm"],
   "observabilidad": ["Datadog APM", "Logs", "JMeter", "Monitoreo de rendimiento"]
 }
 ```
@@ -146,17 +168,28 @@ const miguelMendoza = {
 
 ---
 
+## 🤝 ¿Cómo puedo aportar?
+
+- Diseño de arquitecturas para sistemas distribuidos y orientados a eventos.
+- Definición de estándares técnicos y prácticas de ingeniería para equipos de desarrollo.
+- Acompañamiento en modernización de plataformas y mejora de pipelines CI/CD.
+- Optimización de observabilidad, confiabilidad y performance en entornos productivos.
+
+---
+
 ## 🔗 Conecta Conmigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:miguel.mendoza.molina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/miguelmendozabluex" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 ---
 
 <p align="center" style="margin-top: 10px;">¡Gracias por visitar mi perfil! 🚀</p>
-
 
 
